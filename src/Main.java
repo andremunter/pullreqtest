@@ -7,4 +7,5 @@ void main () {
         }
     }
     IO.println("Det längsta namnet är: " + longestName);
+    IO.println("Pull requesta denna cheeeeenge eller nåt");
 }
